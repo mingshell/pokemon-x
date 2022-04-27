@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pokemon-z/static/css/main.073c9b0a.css",
+    "main.js": "/pokemon-z/static/js/main.12efb865.js",
+    "static/js/787.9d93024f.chunk.js": "/pokemon-z/static/js/787.9d93024f.chunk.js",
+    "static/media/logo.svg": "/pokemon-z/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pokemon-z/index.html",
+    "main.073c9b0a.css.map": "/pokemon-z/static/css/main.073c9b0a.css.map",
+    "main.12efb865.js.map": "/pokemon-z/static/js/main.12efb865.js.map",
+    "787.9d93024f.chunk.js.map": "/pokemon-z/static/js/787.9d93024f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.12efb865.js"
+  ]
+}
